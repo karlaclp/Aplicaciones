@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <em>
+    <title>Mi Página en HTML</title>
+  </em>
+</head>
+<body>
+  <tt>
+    <h1>Mi Información Personal</h1>
+  </tt>
+    <p><b>Nombre:</b> Karla Alejandra Criollo Lopez</p>
+     <sub>
+      <h2>Pasatiempos</h2>
+     </sub>
+    <ul>
+      <var>
+        <li>Jugar al ajedrez</li>
+       <samp>
+        <li>Leer libros</li>
+       </samp>
+        <li>Practicar senderismo</li>
+      </var>
+    </ul>
+    <sup>
+    <h3>Gustos</h3>
+      <pre></pre>
+    <p><i>Me encanta la música clásica y el cine de ciencia ficción.</i></p>
+    </sup>
+    <h4>Estudios</h4>
+    <p>Actualmente estoy estudiando Ingeniería en Sistemas Computacionales en la Universidad Tecnológica de Ciudad Juárez.</p>
+    
+    <h5>Actividades</h5>
+    <ul>
+        <li>Participar en proyectos para ayudar a las personas</li>
+        <li>Realizar actividades fisicas</li>
+    </ul>
+    <code>button</code>
+    
+    <h6>Información de Contacto</h6>
+    <address>
+        <p>karla alejandra criollo lopez </p>
+        <p>Email: karlalejandraclp@gmail.com</p>
+         <ins>
+          <kbd>
+           <p>Teléfono: 6563136819</p>
+          </kbd>
+         </ins>
+    </address>
+    
+    <blockquote>
+      <del>
+        <p>La educación es el pasaporte hacia el futuro, el mañana pertenece a aquellos que se preparan para él hoy. - Malcolm X</p>
+      </del>
+    </blockquote>
+    
+    <hr>
+    
+    <p><em>Este es un sitio web de ejemplo creado por Karla alejandra criollo lopez.</em></p>
+    
+    <small>Última actualización: 19 de septiembre de 2023</small>
+    
+    <big>Agradecimientos especiales a mi profesora Luz Amanda Almada por su apoyo.</big>
+</body>
+</html>
